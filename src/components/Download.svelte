@@ -18,7 +18,7 @@
         <p class="mt-5 px-6 font-semibold text-lg text-center">Add to Chrome</p>
         <p class="mt-1 px-6 font-normal text-xs text-center opacity-50">Minimum version 62</p>
         <div class="-mt-3 w-full flex justify-center items-center ">
-          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-white bg-softBlue hover:text-softBlue">Add & Install Extension</a>
+          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-softBlue bg-softBlue hover:text-softBlue">Add & Install Extension</a>
         </div>
         <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/bg-dots.svg" alt="" class="absolute top-[13.8rem] left-0">
       </div>
@@ -29,7 +29,7 @@
         <p class="mt-5 px-6 font-semibold text-lg text-center">Add to Firefox</p>
         <p class="mt-1 px-6 font-normal text-xs text-center opacity-50">Minimum version 55</p>
         <div class="-mt-3 w-full flex justify-center items-center ">
-          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-white bg-softBlue hover:text-softBlue">Add & Install Extension</a>
+          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-softBlue bg-softBlue hover:text-softBlue">Add & Install Extension</a>
         </div>
         <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/bg-dots.svg" alt="" class="absolute top-[13.8rem] left-0">
       </div>
@@ -40,7 +40,7 @@
         <p class="mt-5 px-6 font-semibold text-lg text-center">Add to Opera</p>
         <p class="mt-1 px-6 font-normal text-xs text-center opacity-50">Minimum version 46</p>
         <div class="-mt-3 w-full flex justify-center items-center ">
-          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-white bg-softBlue ">Add & Install Extension</a>
+          <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-softBlue bg-softBlue ">Add & Install Extension</a>
         </div>
         <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/bg-dots.svg" alt="" class="absolute top-[13.8rem] left-0">
       </div>
