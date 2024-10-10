@@ -27,7 +27,7 @@ function showAnswer(e) {
       <div class="question-block flex flex-row justify-between items-center">
       
         <h1 class="text-sm font-medium text-left text-veryDarkblue cursor-pointer hover:text-softBlue hover:font-medium select-none outline-none" on:click={showAnswer}>{item.question}</h1>
-        <img src="src/lib/images/icon-arrow.svg" alt="caret" class="brightness-70 hover:brightness-140 cursor-pointer" class:scale-y-[-1]={isOpen && q === item.question} on:click={showAnswer}>
+        <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/icon-arrow.svg" alt="caret" class="brightness-70 hover:brightness-140 cursor-pointer" class:scale-y-[-1]={isOpen && q === item.question} on:click={showAnswer}>
       </div>
       <div class="w-full text-sm py-0 -mt-6 text-left font-normal text-pretty opacity-55">
         {#if q === item.question && isOpen}

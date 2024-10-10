@@ -14,18 +14,18 @@
 
       <!-- card 1  -->
       <div class="relative card card-1 shadow-lg rounded-lg flex-col py-5 items-center justify-center hover:shadow-xl cursor-pointer">
-        <img src="src/lib/images/logo-chrome.svg" alt="chrome" class="px-12 mt-5">
+        <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/logo-chrome.svg" alt="chrome" class="px-12 mt-5">
         <p class="mt-5 px-6 font-semibold text-lg text-center">Add to Chrome</p>
         <p class="mt-1 px-6 font-normal text-xs text-center opacity-50">Minimum version 62</p>
         <div class="-mt-3 w-full flex justify-center items-center ">
           <a href="#" class="mt-10 text-white px-5 mx-2 text-veryDarkBlue hover:bg-slate-100 w-full font-medium text-xs py-3 border-none rounded-lg text-center hover:text-white bg-softBlue hover:text-softBlue">Add & Install Extension</a>
         </div>
-        <img src="src/lib/images/bg-dots.svg" alt="" class="absolute top-[13.8rem] left-0">
+        <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/bg-dots.svg" alt="" class="absolute top-[13.8rem] left-0">
       </div>
 
       <!-- card 2  -->
       <div class="relative card card-2 shadow-lg rounded-lg flex-col py-5 items-center justify-center hover:shadow-xl inset cursor-pointer ">
-        <img src="src/lib/images/logo-firefox.svg" alt="chrome" class="px-12 mt-5">
+        <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/logo-firefox.svg" alt="chrome" class="px-12 mt-5">
         <p class="mt-5 px-6 font-semibold text-lg text-center">Add to Firefox</p>
         <p class="mt-1 px-6 font-normal text-xs text-center opacity-50">Minimum version 55</p>
         <div class="-mt-3 w-full flex justify-center items-center ">
