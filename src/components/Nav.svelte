@@ -11,7 +11,7 @@
 <nav class="relative container mx-auto p-6">
   <div class="flex items-center justify-between">
     <div class="pt-2">
-      <img src="src/lib/images/logo-bookmark.svg" alt="logo">
+      <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/logo-bookmark.svg" alt="logo">
     </div>
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <div class="hamburger-menu block md:hidden" class:open={isOpen} on:click={toggleIsOpen}>

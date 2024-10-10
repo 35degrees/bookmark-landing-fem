@@ -6,7 +6,7 @@ import {fade,fly} from 'svelte/transition'
 
 let position = 0
 $: positionChain = [0]
-let imageSrc = 'src/lib/images/illustration-features-tab-1.svg'
+let imageSrc = 'https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-features-tab-1.svg'
 let h1Src = featureDetails[position].h1
 // $: positionChain.unshift(position)
 //   $: positionChain.splice(2)
@@ -30,7 +30,7 @@ function doSomething() {
     return
 } else {
 
-   imageSrc = `src/lib/images/illustration-features-tab-${position+1}.svg`
+   imageSrc = `https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-features-tab-${position+1}.svg`
     h1Src = `featureDetails[position].h1`
   
 

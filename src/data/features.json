@@ -4,20 +4,20 @@
 		"heading": "Simple Bookmarking",
 		"h1": "Bookmark in one click",
 		"p": "Organize your bookmarks however you like. Our simple drag-and-drop interface gives you complete control over how you manage your favourite sites.",
-		"image": "src/lib/images/illustration-features-tab-1.svg"
+		"image": "https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-features-tab-1.svg"
 	},
 	{
 		"id": 2,
 		"heading": "Speedy Searching",
 		"h1": "Intelligent search",
 		"p": "Our powerful search feature will help you find saved sites in no time at all. No need to trawl through all of your bookmarks.",
-		"image": "src/lib/images/illustration-features-tab-2.svg"
+		"image": "https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-features-tab-2.svg"
 	},
 	{
 		"id": 3,
 		"heading": "Easy Sharing",
 		"h1": "Share your bookmarks",
 		"p": "Easily share your bookmarks and collections with others. Create a shareable link that you can send at the click of a button.",
-		"image": "src/lib/images/illustration-features-tab-3.svg"
+		"image": "https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-features-tab-3.svg"
 	}
 ]

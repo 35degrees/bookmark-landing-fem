@@ -19,7 +19,7 @@
     </div>
     <div class="md:w-1/2 relative  py-3">
       <div class="absolute bg-softBlue h-[85%] w-[60rem] rounded-full lg:top-[3.5rem] lg:-right-[22rem] -z-2 px-2 md:-right-[32rem] md:top-7 sm:top-8 sm:left-12"></div>
-    <img src="src/lib/images/illustration-hero.svg" alt="" class="z-20 relative lg:-top-4 lg:-left-8 md:-top-4 md:-left-4">
+    <img src="https://raw.githubusercontent.com/35degrees/bookmark-landing-fem/refs/heads/main/src/lib/images/illustration-hero.svg" alt="" class="z-20 relative lg:-top-4 lg:-left-8 md:-top-4 md:-left-4">
 
     </div>
  
